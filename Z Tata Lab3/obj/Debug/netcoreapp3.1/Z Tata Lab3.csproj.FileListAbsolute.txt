@@ -1,0 +1,14 @@
+C:\Users\zacha\source\repos\Z Tata GC Lab 3 Deliverable\Z Tata Lab3\bin\Debug\netcoreapp3.1\Z Tata Lab3.exe
+C:\Users\zacha\source\repos\Z Tata GC Lab 3 Deliverable\Z Tata Lab3\bin\Debug\netcoreapp3.1\Z Tata Lab3.deps.json
+C:\Users\zacha\source\repos\Z Tata GC Lab 3 Deliverable\Z Tata Lab3\bin\Debug\netcoreapp3.1\Z Tata Lab3.runtimeconfig.json
+C:\Users\zacha\source\repos\Z Tata GC Lab 3 Deliverable\Z Tata Lab3\bin\Debug\netcoreapp3.1\Z Tata Lab3.runtimeconfig.dev.json
+C:\Users\zacha\source\repos\Z Tata GC Lab 3 Deliverable\Z Tata Lab3\bin\Debug\netcoreapp3.1\Z Tata Lab3.dll
+C:\Users\zacha\source\repos\Z Tata GC Lab 3 Deliverable\Z Tata Lab3\bin\Debug\netcoreapp3.1\Z Tata Lab3.pdb
+C:\Users\zacha\source\repos\Z Tata GC Lab 3 Deliverable\Z Tata Lab3\obj\Debug\netcoreapp3.1\Z Tata Lab3.csproj.AssemblyReference.cache
+C:\Users\zacha\source\repos\Z Tata GC Lab 3 Deliverable\Z Tata Lab3\obj\Debug\netcoreapp3.1\Z Tata Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zacha\source\repos\Z Tata GC Lab 3 Deliverable\Z Tata Lab3\obj\Debug\netcoreapp3.1\Z Tata Lab3.AssemblyInfoInputs.cache
+C:\Users\zacha\source\repos\Z Tata GC Lab 3 Deliverable\Z Tata Lab3\obj\Debug\netcoreapp3.1\Z Tata Lab3.AssemblyInfo.cs
+C:\Users\zacha\source\repos\Z Tata GC Lab 3 Deliverable\Z Tata Lab3\obj\Debug\netcoreapp3.1\Z Tata Lab3.csproj.CoreCompileInputs.cache
+C:\Users\zacha\source\repos\Z Tata GC Lab 3 Deliverable\Z Tata Lab3\obj\Debug\netcoreapp3.1\Z Tata Lab3.dll
+C:\Users\zacha\source\repos\Z Tata GC Lab 3 Deliverable\Z Tata Lab3\obj\Debug\netcoreapp3.1\Z Tata Lab3.pdb
+C:\Users\zacha\source\repos\Z Tata GC Lab 3 Deliverable\Z Tata Lab3\obj\Debug\netcoreapp3.1\Z Tata Lab3.genruntimeconfig.cache
