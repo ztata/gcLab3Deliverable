@@ -86,12 +86,6 @@ namespace Z_Tata_Lab3
                     Console.WriteLine($"{userNumber}, Odd.");
                 }
 
-                //TODO: this should never actually execute 
-                else
-                {
-                    Console.WriteLine("A fine number.");
-                }
-
                 //prompts user if they would like to repeat the game
                 Console.Write("Would you like to try again? Type 'Yes' to repeat or anything else to exit.");
                 string goAgainAnswer = Console.ReadLine();
